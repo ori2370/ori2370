@@ -16,13 +16,16 @@ Below are some of my key projects, which demonstrate my experience in software e
   A Data system project  to assist people stuck on the road who are unable to resolve their vehicle issues and seeking help.
 
 
+
+
 ## **Course Assignments**  
  - [Autonomous_Robotics_Final_Project](https://github.com/DanielRivni/Autonomous_Robotics_Final_Project/tree/main)   
 
-- ### System-Programming
+- ### System-Programming 2
  - [ADT in C](https://github.com/ori2370/-HW1-System-Programming-B)
  - [Card War Game](https://github.com/ori2370/CardWar_B)
- - [Fraction_class](https://github.com/ori2370/Fraction_b)    
+ - [Fraction_class](https://github.com/ori2370/Fraction_b)
+ -  [Cowboy vs Ninja](https://github.com/ori2370/cowboy_vs_ninja_b)  
  - [Magical_iterators](https://github.com/ori2370/Magical_Iterators_B)    
 - ### Object-oriented programming (OOP)
  - [Observer pattern](https://github.com/ori2370/OOP_EX1)
