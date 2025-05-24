@@ -3,7 +3,7 @@
 I’m a software developer with a background in C,C++,Java, and Python.
 
  
-Below are some of my key projects, which demonstrate my experience in software engineering, data science, and algorithms.
+Below are some of my key projects, which demonstrate my experience in software engineering,and algorithms.
 
 ## 🔹Some Of My Projects:
 
