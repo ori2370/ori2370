@@ -7,7 +7,7 @@ Below are some of my key projects, which demonstrate my experience in software e
 
 ## 🔹 Pinned Projects
 
- - [Cowboy vs Ninja]([https://github.com/yourusername/battle-sim](https://github.com/ori2370/cowboy_vs_ninja_b))  
+ - [Cowboy vs Ninja](https://github.com/ori2370/cowboy_vs_ninja_b)  
 
   A C++ project simulating battles between ninjas and cowboys, showcasing OOP, unit testing, and TDD principles.
 
