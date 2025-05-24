@@ -1,0 +1,21 @@
+# Hi, I’m Ori Elimelech
+
+I’m a software developer with a background in C,C++,Java, and Python.
+
+ 
+Below are some of my key projects, which demonstrate my experience in software engineering, data science, and algorithms.
+
+## 🔹 Pinned Projects
+
+ - [Cowboy vs Ninja]([https://github.com/yourusername/battle-sim](https://github.com/ori2370/cowboy_vs_ninja_b))  
+
+  A C++ project simulating battles between ninjas and cowboys, showcasing OOP, unit testing, and TDD principles.
+
+<!--
+
+
+- **Course Assignments**  
+  A collection of C++ data structures and algorithms projects, including linked lists, sorting, and more.
+
+Feel free to check out my repositories!
+ -->
